@@ -1,0 +1,17 @@
+<view class="footer">
+  <view class="nav-icon" bindtap="navigateToPage1">
+    <image class="shouye" src="../../images/page1/man.png" />
+  </view>
+  <view class="nav-icon" bindtap="navigateToPage2">
+    <image class="beixuan"src="../../images/page2/Thumbs Up.jpg" />
+  </view>
+  <view class="add-icon" bindtap="onClick">
+    <image class="add-image" src="../../images/footer/add.png"/>
+  </view>
+  <view class="nav-icon" bindtap="navigateToPage3">
+    <image class="jifen"src="../../images/page3/man.png" />
+  </view>
+  <view class="nav-icon" bindtap="navigateToPage4">
+    <image class="geren"src="../../images/page4/mini.png" />
+  </view>
+</view>
